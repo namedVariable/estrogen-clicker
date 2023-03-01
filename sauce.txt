@@ -1,1 +1,10 @@
+Let's make a game!
+  name:Estrogen Clicker
+  by:Cydonia
+  desc:Game!
+  created:1/03/2023
+  update:1/03/2023
+  version:0.0
 
+Settings
+  background:https://media.discordapp.net/attachments/1045941510350307389/1079973269702193162/image.png?width=700&height=676
