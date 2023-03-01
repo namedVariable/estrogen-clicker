@@ -3,7 +3,7 @@ Let's make a game!
   by:Cydonia
   desc:Game!
   created:1/03/2023
-  update:1/03/2023
+  updated:1/03/2023
   version:0.0
 Settings
   tiling background:https://cdn.discordapp.com/attachments/1045941510350307389/1079934849185480764/Screenshot_20230228-091515.jpg
